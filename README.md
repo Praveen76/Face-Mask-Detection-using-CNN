@@ -41,7 +41,7 @@ Upon completing this project, you will achieve the following learning objectives
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Face-Mask-Detection-Using-CNN.git
+git clone https://github.com/Praveen76/Face-Mask-Detection-Using-CNN.git
 cd Face-Mask-Detection-Using-CNN
 ```
 
